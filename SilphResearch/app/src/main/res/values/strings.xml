@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Silph Research</string>
+    <string name="search">Search</string>
+    <string name="encounter">Encounter</string>
+    <string name="shiny">Shiny</string>
+    <string name="reporting_periods">Reporting Periods</string>
+    <string name="create">Create Reporting Period</string>
+    <string name="delete">Delete Reporting Period</string>
+    <string name="period_name">Reporting Period Name</string>
+    <string name="date_start">Date Start</string>
+    <string name="type">Type</string>
+
+</resources>
